@@ -1,0 +1,16 @@
+In order to reduce marketing costs and increase the deposit percentage, the following should be targeted.
+1)University graduates
+
+2)People who are either married or single.
+
+3)Duration played the major role but that can't be determined before making the call to the employees who previously managed to keep the conversation going should be included in the campaign.
+
+4)The retired and young aged people.
+
+5)Pdays = 999(never contacted) or Pdays<=3
+
+6)The person having a housing or loan as both were directly correlated to the term deposit.
+
+7)Maximum efforts should be made between May to August.
+
+8)Successful outcomes of previous marketing campaigns should be kept in mind.
